@@ -8,22 +8,22 @@ The scope of this analysis is to understand how different factors contribute to 
 
 ###### Theater Outcomes Based on Launch Date
 
-![Figure 1](Users/britnigrimm/Desktop/Analysis Projects/Crowdfunding Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Figure 1](Resources/Theater_Outcomes_vs_Launch.png)
 
 We can make three immediate observations by considering the outcome of theater Kickstarter campaign based on its launch date as displayed in the figure above. First, a higher number of successful theater campaigns are launched in May, June, and July, respectively. Similarly, a higher number of failed theater campaigns are launched in May. Finally, nearly equal numbers of successful and failed campaigns were launched in December.
 
 Although correlating the outcome of a campaign in relation to its launch date *can* provide some insight, this is not an indication of causation. This is to say that simply launching a campaign in May does not guarantee a successful funding campaign. We can verify this argument by addressing the opposite outcome in the same way. Most failed theater campaigns were *also* launched in May. Without deeper analysis, this would indicate that theater campaigns launched in May are also more likely to fail. How can that be true if our data is telling us more successful campaigns were launched in May? The figure below directly compares the number of successful campaigns to the number of failed campaigns by month during this reporting period. We see that for much of the year, theater campaigns are much more likely to meet their funding goals! In May and June, not only are more theater campaigns launched, they are roughly twice as likely to meet their goal. 
 
-![Figure 2](Users/britnigrimm/Desktop/Analysis Projects/Crowdfunding Analysis/Resources/Success_Fail_by_month.png)
+![Figure 2](Resources/Success_Fail_by_month.png)
 
 
 Before confirming our assumption that a theater campaign launched in May would be more likely to meet its funding goal than one launched in another month, let us take a look at all theater campaigns launched by month. The table below breaks out the success and fail rates of theater campaigns by month in reference to the total number of theater campaigns launched. We can see that if the 166 theater campaigns launched in May, 67% were successful. Considering all of the outcomes (cancelled, failed, live, and successful) gives us a more sophisticated understanding of the risk of launching a Kickstarter campaign for a theater production. 
 
-![Table 1](Users/britnigrimm/Desktop/Analysis Projects/Crowdfunding Analysis/Resources/Table_by_Month.png)
+![Table 1](Resources/Table_by_Month.png)
 
 ###### Play Outcomes Based on Goal
 
-![Figure 3](Users/britnigrimm/Desktop/Analysis Projects/Crowdfunding Analysis/Resources/Outcomes_vs_Goals.png)
+![Figure 3](Resources/Outcomes_vs_Goals.png)
 
 
 The figure above outlines the outcomes of campaigns for plays in relation to their funding goal. Although there are exceptions, we can see that most successful campaigns set a lower more attainable goal while campaigns with higher goals had a higher rate of failure. While these figures give us an idea of what has occurred, we can’t see the efforts that helped achieve these goals. Perhaps lower funding goals are simply easier to achieve! Maybe we see a spike of successful campaigns around the $35,000 to $49,000 goal posts because these campaigns employed marketing tactics or inherently had a more enthusiastic base of backers.
